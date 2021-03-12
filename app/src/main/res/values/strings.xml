@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestDemo</string>
+    <string name="get_person">Get Person</string>
+    <string name="add_data">Add Data</string>
+</resources>
